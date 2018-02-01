@@ -1,2 +1,2 @@
-# Protein-Modelling
-Final year project on Protein Modelling
+# Protein-Modelling 
+# Final year project on Computational Modelling of Protein Folding
